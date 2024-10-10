@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest coverage reports
+coverage/
+
+# Output directories
+dist/
+build/
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# Ignore transpiled JavaScript files (if compiled in the same directory as source)
+*.js
+*.js.map
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
