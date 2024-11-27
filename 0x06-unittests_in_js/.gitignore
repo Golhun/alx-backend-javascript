@@ -1,0 +1,32 @@
+# Node.js specific files and directories
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+coverage/
+*.lcov
+
+# Logs
+*.log
+
+# Directory for compiled code (if using TypeScript or any pre-compilation step)
+dist/
+build/
+
+# Test output or other generated files
+test-output/
+
